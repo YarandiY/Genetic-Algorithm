@@ -1,0 +1,4 @@
+public interface Function {
+
+    public double fitness(double x);
+}
